@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/one.png",
+        "name": "friends"
+    },
+    {
+        "image": "../assets/two.png",
+        "name": "ghost"
+    },
+    {
+        "image": "../assets/three.png",
+        "name": "witches"
+    },
+    {
+        "image": "../assets/four.png",
+        "name": "bones"
+    },
+    {
+        "image": "../assets/five.png",
+        "name": "lovers"
+    },
+    {
+        "image": "../assets/strawberry.png",
+        "name": "strawberry"
+    },
+    {
+        "image": "../assets/tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "../assets/watermelon.png",
+        "name": "watermelon"
+    },
+    {
+        "image": "../assets/cherries.png",
+        "name": "cherries"
+    }
+]
